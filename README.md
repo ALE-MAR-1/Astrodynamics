@@ -1,2 +1,2 @@
-# Astrodyanmics
+# Astrodynamics
 Just some astro stuff.
